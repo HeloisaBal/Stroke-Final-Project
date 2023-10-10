@@ -1,6 +1,6 @@
 # Stroke-Final-Project
 ### Purpose
-This project contains is a descriptive analysis of data from the U.S Healthcare in 2022. It contains machine learning models for predicting the chances of getting a stroke with 99% accuracy scores.
+This project is a descriptive analysis of data from the U.S Healthcare in 2022. It contains machine learning models for predicting the chances of getting a stroke with 99% accuracy scores.
 
 ### Source data
 https://www.cdc.gov/brfss/annual_data/annual_2020.html
