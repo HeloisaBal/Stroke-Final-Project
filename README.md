@@ -19,5 +19,5 @@ Decision Trees and Random Forests were the models returning the highest accuracy
 
 ### Conclusions drawn
 - Smoking and high BMI are highly related to having a stroke.
-- Alcohol and lack of sleep did not seem to be correlated to having a stroke in the dataset patients.
-- The number of deaths caused by stroke in Scotland has plummeted since 2011.
+- Alcohol and lack of sleep are not correlated to having a stroke in the dataset patients.
+- Patients above the age of 55 are more prone to having a stroke.
