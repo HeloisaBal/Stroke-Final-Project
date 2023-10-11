@@ -7,8 +7,8 @@ https://www.cdc.gov/brfss/annual_data/annual_2020.html
 https://www.opendata.nhs.scot/dataset/scottish-stroke-statistics
 
 ### Documentation
-'Final Project - Stroke.ipynb' draws insights from the data and testes the models.
-‘Stroke - Presentation Results.pdf’ contains data visuals summarising the insights.
+Final Project - Stroke.ipynb draws insights from the data and testes the models.
+Stroke - Presentation Results.pdf contains data visuals summarising the insights.
 
 ### Summary
 Performed data cleaning and wrangling, going from 326 columns to 29 columns.
