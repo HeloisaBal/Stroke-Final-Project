@@ -8,6 +8,7 @@ https://www.opendata.nhs.scot/dataset/scottish-stroke-statistics
 
 ### Documentation
 Final Project - Stroke.ipynb draws insights from the data and testes the models.
+
 Stroke - Presentation Results.pdf contains data visuals summarising the insights.
 
 ### Summary
